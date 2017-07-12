@@ -14,5 +14,9 @@ git clone https://git.lede-project.org/source.git
 make menuconfig
 make defconfig
 
+# backup your configuration
 scripts/diffconfig.sh > mydiffconfig2
 
+# restore your configuration
+mv .config .config.orig
+cat diffconfig > .config
