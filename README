@@ -9,7 +9,7 @@ git clone https://git.lede-project.org/source.git
 ./scripts/feeds install bird4 luci-app-bird4 babeld
 
 # stuffs
-./scripts/feeds install micropython sshfs nano socat
+./scripts/feeds install micropython sshfs nano socat luci-app-mwan3
 
 # printer server
 ./scripts/feeds install p910nd luci-app-p910nd
