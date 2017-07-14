@@ -1,6 +1,6 @@
 git clone https://git.lede-project.org/source.git
 
-./scripts/feeds update -a
+./scripts/feeds update
 
 # se openvpn openssl anche luci openssl, altrimenti mbedtls
 ./scripts/feeds install openvpn netdiscover etherwake tcpdump-mini iperf iptraf-ng arp-scan luci-app-commands luci luci-ssl-openssl luci-ssl
