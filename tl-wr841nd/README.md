@@ -20,7 +20,6 @@ firewall_2017-11-07-c4309372-1_mips_24kc.ipk
 fstools_2017-07-31-8ab4fda6-1_mips_24kc.ipk
 fwtool_1_mips_24kc.ipk
 hostapd-common_2017-08-24-c2d4f2eb-5_mips_24kc.ipk
-ip6tables_1.6.1-1_mips_24kc.ipk
 iptables_1.6.1-1_mips_24kc.ipk
 iw_4.9-1_mips_24kc.ipk
 iwinfo_2017-08-23-c1a03e82-1_mips_24kc.ipk
@@ -43,9 +42,6 @@ kmod-nf-ipt6_4.9.72-1_mips_24kc.ipk
 kmod-nf-ipt_4.9.72-1_mips_24kc.ipk
 kmod-nf-nat_4.9.72-1_mips_24kc.ipk
 kmod-nls-base_4.9.72-1_mips_24kc.ipk
-kmod-ppp_4.9.72-1_mips_24kc.ipk
-kmod-pppoe_4.9.72-1_mips_24kc.ipk
-kmod-pppox_4.9.72-1_mips_24kc.ipk
 kmod-slhc_4.9.72-1_mips_24kc.ipk
 kmod-usb-core_4.9.72-1_mips_24kc.ipk
 kmod-usb-ehci_4.9.72-1_mips_24kc.ipk
@@ -85,9 +81,7 @@ luci-theme-bootstrap_git-17.361.08781-6638e4c-1_all.ipk
 luci_git-17.361.08781-6638e4c-1_all.ipk
 mtd_21_mips_24kc.ipk
 netifd_2017-12-15-4268193c-1_mips_24kc.ipk
-odhcp6c_2017-09-05-51733a6d-4_mips_24kc.ipk
 odhcpd-ipv6only_1.3-1_mips_24kc.ipk
-opkg_2017-12-07-3b417b9f-2_mips_24kc.ipk
 procd_2017-10-10-7c9aa7c3-1_mips_24kc.ipk
 rpcd-mod-rrdns_20170710_mips_24kc.ipk
 rpcd_2017-12-07-cfe1e75c-1_mips_24kc.ipk
