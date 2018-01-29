@@ -19,7 +19,6 @@ dropbear_2017.75-5_mips_24kc.ipk
 firewall_2017-11-07-c4309372-1_mips_24kc.ipk
 fstools_2017-07-31-8ab4fda6-1_mips_24kc.ipk
 fwtool_1_mips_24kc.ipk
-hostapd-common_2017-08-24-c2d4f2eb-5_mips_24kc.ipk
 iptables_1.6.1-1_mips_24kc.ipk
 iw_4.9-1_mips_24kc.ipk
 iwinfo_2017-08-23-c1a03e82-1_mips_24kc.ipk
@@ -52,7 +51,6 @@ lede-keyring_2017-01-20-a50b7529-1_mips_24kc.ipk
 libblobmsg-json_2017-10-06-729f47fd-1_mips_24kc.ipk
 libgcc_5.5.0-1_mips_24kc.ipk
 libip4tc_1.6.1-1_mips_24kc.ipk
-libip6tc_1.6.1-1_mips_24kc.ipk
 libiwinfo-lua_2017-08-23-c1a03e82-1_mips_24kc.ipk
 libiwinfo_2017-08-23-c1a03e82-1_mips_24kc.ipk
 libjson-c_0.12.1-1_mips_24kc.ipk
