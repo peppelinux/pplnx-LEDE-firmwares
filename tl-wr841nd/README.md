@@ -10,7 +10,7 @@ Renunciations:
 - tcpdump-mini
 - other customizations
 
-Package here:
+Packages here:
 ````
 base-files_179-r5629-23bba9c_mips_24kc.ipk
 busybox_1.27.2-2_mips_24kc.ipk
